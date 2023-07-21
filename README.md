@@ -1,4 +1,6 @@
-image
+![image](https://github.com/Ayaan198/LGMVIP-Web-Task-1/assets/110682132/20576ead-72bc-47cd-b8d4-60f2f74e677d)
+
+
 This repository is to share my work as a Web Developer Intern in the Virtual Internship Program (VIP) at LetsGrowMore.
 
 I would like to thank Aman Kesarwani Sir and the team of LetsGrowMore Community for giving me this opportunity to enhance my skills and work on such an amazing projects.
