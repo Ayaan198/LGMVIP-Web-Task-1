@@ -1,4 +1,6 @@
 ![image](https://github.com/Ayaan198/LGMVIP-Web-Task-1/assets/110682132/20576ead-72bc-47cd-b8d4-60f2f74e677d)
+# Todo List App using HTML CSS JAVASCRIPT
+![image](https://github.com/Ayaan198/LGMVIP-Web-Task-1/assets/110682132/ead0c6ae-421f-4a7c-b12a-b8998db2fceb)
 
 
 This repository is to share my work as a Web Developer Intern in the Virtual Internship Program (VIP) at LetsGrowMore.
